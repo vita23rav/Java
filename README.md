@@ -22,8 +22,8 @@ CharacterManager/
 │               └── model/
 │                   ├── Character.java
 │                   └── CharacterType.java
-├── screenshots/
-│   └── output-terminal.png
+├── Screenshots/
+│   └── Screenshots output-terminal.png
 └── README.md
 ```
 
