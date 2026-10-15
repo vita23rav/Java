@@ -31,6 +31,6 @@ CharacterManager/
 
 - **Nama:** Ravita Marsanda
 - **NIM:** 253303621209
-- **Google Docs Bagian D:** [ttps://docs.google.com/document/d/1vhce2Y4HyO6x0SCRgWV_Nax_UEtUrbtKarFv6Gh-N2Q/edit?usp=sharing]
+- **Google Docs Bagian D:** [https://docs.google.com/document/d/1vhce2Y4HyO6x0SCRgWV_Nax_UEtUrbtKarFv6Gh-N2Q/edit?usp=sharing]
 
 
