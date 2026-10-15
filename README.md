@@ -8,7 +8,8 @@ Character Manager merupakan aplikasi berbasis Java untuk membuat dan mengelola k
 
 Screenshot berikut menunjukkan hasil eksekusi program, termasuk demo level up, atribut mana, dan method `isAlive()`.
 
-![Output Terminal](Screenshots output-terminal.png)
+![Output Program](![Output Terminal](screenshots/output-terminal.png))
+
 
 ## Struktur Folder Project
 
